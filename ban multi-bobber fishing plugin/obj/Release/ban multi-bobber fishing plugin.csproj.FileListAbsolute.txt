@@ -1,0 +1,20 @@
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\ban multi-bobber fishing plugin.dll.config
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\ban multi-bobber fishing plugin.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\ban multi-bobber fishing plugin.pdb
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\BCrypt.Net.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\HttpServer.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\MySql.Data.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\OTAPI.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\TerrariaServer.exe
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\TShockAPI.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\BCrypt.Net.xml
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\Newtonsoft.Json.xml
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\OTAPI.pdb
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\bin\Release\OTAPI.xml
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\obj\Release\ban multi-bobber fishing plugin.csproj.AssemblyReference.cache
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\obj\Release\ban multi-bobber fishing plugin.csproj.CoreCompileInputs.cache
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\obj\Release\ban multi-bobber fishing plugin.csproj.CopyComplete
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\obj\Release\ban multi-bobber fishing plugin.dll
+C:\Users\CLOUD\Documents\GitHub\Tshock-Ban_Multi_Bobber_Fishing_Plugin\ban multi-bobber fishing plugin\obj\Release\ban multi-bobber fishing plugin.pdb
