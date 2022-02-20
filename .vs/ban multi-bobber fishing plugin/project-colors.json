@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3d5c8fb-89b5-438a-9684-c52fc97ce233": {
+      "ProjectGuid": "a3d5c8fb-89b5-438a-9684-c52fc97ce233",
+      "DisplayName": "ban multi-bobber fishing plugin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
